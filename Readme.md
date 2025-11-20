@@ -8,7 +8,6 @@ This repository contains the implementation of the Adaptive Grid Preference Lear
 * BaselineComparisons.py: Compares the proposed method against baseline algorithms, calculating mean regret and query complexity.
 * DependencyFigures.py: Generates figures visualizing the relationship between regret/queries and problem parameters (dimension and Pareto front size).
 * ParameterSweep.py: Runs a grid search over hyperparameters (epsilon, delta, alpha, Delta_min) to identify optimal configurations.
-* 122_The_Minimax_Complexity_of_.pdf: The full research paper.
 
 ## Dependencies
 The code requires Python 3 and the following libraries:
